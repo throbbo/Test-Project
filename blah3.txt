@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-asdfasfasd
-werrrrrrrrrrrrrrrrrrrrgggrr
-=======
 asdfasfasdaaaaaaaaaaa
 werrrrrrrrrrrrrrrrrrrrrrr
->>>>>>> master
+aaaaaaaaaaaaaaaaaaaaaa
+werwerwrwrwe
