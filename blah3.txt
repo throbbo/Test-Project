@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 asdfasfasd
 werrrrrrrrrrrrrrrrrrrrgggrr
+=======
+asdfasfasdaaaaaaaaaaa
+werrrrrrrrrrrrrrrrrrrrrrr
+>>>>>>> master
